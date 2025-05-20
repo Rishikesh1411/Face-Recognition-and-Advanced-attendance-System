@@ -34,12 +34,16 @@ An intelligent attendance system using facial recognition technology to automate
 - Tkinter
 - NumPy
 
+## 🚀 Getting Started
+
 ### Installation
 ```bash
 git clone https://github.com/Rishikesh1411/Face-Recognition-and-Advanced-attendance-System.git
 cd Face-Recognition-and-Advanced-attendance-System
 pip install -r requirements.txt
 python main.py
+
+### 📊 System Workflow
 
 graph TD
     A[Camera Input] --> B[Face Detection]
@@ -80,5 +84,7 @@ Project Link: [https://github.com/Rishikesh1411/Face-Recognition-and-Advanced-at
 
 - OpenCV community
 - Python developers
+
+
 
 
