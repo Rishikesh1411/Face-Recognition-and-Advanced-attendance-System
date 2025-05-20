@@ -22,9 +22,9 @@ An intelligent attendance system using facial recognition technology to automate
 
 ## 📸 Sample Images
 
-| Developer | Detection | Attendance |
-|-----------|-----------|------------|
-| ![Dev](https://raw.githubusercontent.com/Rishikesh1411/Face-Recognition-and-Advanced-attendance-System/main/college_images/rishikesh.jpg) | ![Detection](https://raw.githubusercontent.com/Rishikesh1411/Face-Recognition-and-Advanced-attendance-System/main/college_images/PIC/detection_sample.png) | ![Report](https://raw.githubusercontent.com/Rishikesh1411/Face-Recognition-and-Advanced-attendance-System/main/college_images/PIC/attendance_report.png) |
+| Developer |
+|-----------|
+| ![Dev](https://raw.githubusercontent.com/Rishikesh1411/Face-Recognition-and-Advanced-attendance-System/main/college_images/rishikesh.jpg) | 
 
 ## 🚀 Getting Started
 
@@ -73,7 +73,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Rishikesh - [Your Email]  
+Rishikesh Raj- [rishikeshr335@gmail.com]  
 Project Link: [https://github.com/Rishikesh1411/Face-Recognition-and-Advanced-attendance-System](https://github.com/Rishikesh1411/Face-Recognition-and-Advanced-attendance-System)
 
 ## 🙏 Acknowledgments
