@@ -1,0 +1,53 @@
+# Large data/model files (GitHub has 50MB file limit)
+*.xml
+*.h5
+*.pkl
+*.pb
+*.weights
+*.onnx
+*.bin
+
+# Training datasets
+/dataset/
+/training_data/
+/test_data/
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+*.egg
+dist/
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Log files
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+*.env*
+
+# Compiled files
+*.class
+*.exe
+*.dll
